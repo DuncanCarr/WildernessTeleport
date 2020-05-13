@@ -1,0 +1,10 @@
+name: WildernessTeleport
+version: @version@
+main: horizon.wildernessteleport.WildernessTeleport
+api-version: 1.13
+authors: [Horizon]
+description: WildernessTeleport plugin created for PlayEmpire
+
+commands:
+  wild:
+    usage: /wild
